@@ -1,5 +1,7 @@
 # Product Feedback Sentiment Analysis
 
+![Product Feedback Dashboard](screenshots/dashboard.png)
+
 This project analyzes product review sentiment using SQL and Excel, visualizing trends and extracting actionable business insights.
 
 ## Files and Folder
